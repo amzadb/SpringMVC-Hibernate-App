@@ -55,7 +55,6 @@
 								<form:button cssClass="btn btn-primary">Submit</form:button>
 							</div>
 						</div>
-
 					</form:form>
 				</div>
 			</div>
